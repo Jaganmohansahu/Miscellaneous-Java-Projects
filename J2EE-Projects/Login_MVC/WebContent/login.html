@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link href="bootstrap.min.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	li
+	{
+		float: left;
+	}
+	ul
+	{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color:#333; 
+	}
+	li a
+	{
+		display: inline-block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none; 
+	}
+	li a:HOVER {
+	background-color: aqua;
+}
+</style>
+<title>Insert title here</title>
+
+</head>
+<body>
+	<ul>
+		<li> <a href="index.html">HOME</a></li>
+		<li> <a href="login.html">LOGIN</a></li>
+		<li> <a href="register.html">REGISTER</a></li>
+		
+		
+	</ul>	
+	  <form action="login_controller.Login" method="post">
+        <label>Email ID</label>
+        <input type="text" name="email" placeholder="Enter Eid" />
+        <label>Password</label>
+        <input type="password" name="password" placeholder="Enter Password" />
+        <label class="checkbox"><a href="forget.html">FORGET PASSWORD</a></label>
+        <input type="submit" value="SUBMIT" class="btn btn-primary">
+    </form>
+
+</body>
+</html>
+
+	

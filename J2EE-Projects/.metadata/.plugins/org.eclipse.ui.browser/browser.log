@@ -1,0 +1,369 @@
+
+May 30, 2018 17:12:28.47 NEW SESSION
+May 30, 2018 17:12:28.47 [6232:19996:0530/171228.368:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+May 30, 2018 17:12:28.48 [6232:19996:0530/171228.368:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\Jagan\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Jagan\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+May 30, 2018 17:12:28.82 [6232:19996:0530/171228.368:ERROR:disk_cache.cc(169)] Unable to create cache
+May 30, 2018 17:12:28.84 [6232:19996:0530/171228.368:ERROR:shader_disk_cache.cc(601)] Shader Cache Creation failed: -2
+May 30, 2018 17:12:37.77 [6232:32108:0530/171237.769:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 30, 2018 17:13:06.43 [6232:32600:0530/171306.428:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 30, 2018 17:13:10.71 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum_n2_us', domain='.apple.com', path='/'}
+May 30, 2018 17:13:10.82 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_siteuid', domain='.bithumb.com', path='/'}
+May 30, 2018 17:13:10.84 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_ssid', domain='.bithumb.com', path='/'}
+May 30, 2018 17:13:10.85 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_cm_mmc', domain='.bithumb.com', path='/'}
+May 30, 2018 17:13:10.86 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='appier_utmz', domain='.bithumb.com', path='/'}
+May 30, 2018 17:13:10.88 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmb', domain='.clearload.bid', path='/'}
+May 30, 2018 17:13:10.89 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmc', domain='.clearload.bid', path='/'}
+May 30, 2018 17:13:10.90 [6232:19996:0530/171310.711:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmz', domain='.clearload.bid', path='/'}
+May 30, 2018 17:13:10.91 [6232:19996:0530/171310.712:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dl_user_platform', domain='.cnet.com', path='/'}
+May 30, 2018 17:13:10.93 [6232:19996:0530/171310.712:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_pptid', domain='.cnet.com', path='/'}
+May 30, 2018 17:13:10.94 [6232:19996:0530/171310.712:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum', domain='.cnet.com', path='/'}
+May 30, 2018 17:13:10.95 [6232:19996:0530/171310.712:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='demonuts.com', path='/pick-image-gallery-camera-android'}
+May 30, 2018 17:13:10.97 [6232:19996:0530/171310.712:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='eclipse_cookieconsent_status', domain='www.eclipse.org', path='/'}
+May 30, 2018 17:13:10.98 [6232:19996:0530/171310.713:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browser_width', domain='hdmoviepoint.com', path='/'}
+May 30, 2018 17:13:10.99 [6232:19996:0530/171310.713:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browsercapability', domain='hdmoviepoint.com', path='/'}
+May 30, 2018 17:13:11.01 [6232:19996:0530/171310.713:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='LD_U', domain='marketcampus.com', path='/'}
+May 30, 2018 17:13:11.02 [6232:19996:0530/171310.714:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='tz', domain='medium.com', path='/'}
+May 30, 2018 17:13:11.04 [6232:19996:0530/171310.714:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ct_timezone', domain='www.neowin.net', path='/'}
+May 30, 2018 17:13:11.05 [6232:19996:0530/171310.715:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='OptanonConsent', domain='.softonic.com', path='/'}
+May 30, 2018 17:13:11.06 [6232:19996:0530/171310.715:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.fpmSessionId', domain='.softonic.com', path='/'}
+May 30, 2018 17:13:11.08 [6232:19996:0530/171310.715:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.softonic_mobile.page_views.counter', domain='.softonic.com', path='/'}
+May 30, 2018 17:13:11.09 [6232:19996:0530/171310.715:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='viewedOuibounceModal', domain='jarfix.en.softonic.com', path='/'}
+May 30, 2018 17:13:11.10 [6232:19996:0530/171310.715:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_id', domain='www.techjini.com', path='/'}
+May 30, 2018 17:13:11.12 [6232:19996:0530/171310.715:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_start_time', domain='www.techjini.com', path='/'}
+May 30, 2018 17:13:11.13 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-original-referrer', domain='www.techjini.com', path='/'}
+May 30, 2018 17:13:11.14 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.16 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.17 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.19 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.20 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.22 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.23 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.25 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.26 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.27 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.29 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.30 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.31 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.33 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.35 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.36 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.38 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.39 [6232:19996:0530/171310.829:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.thewhizmarketing.com', path='/'}
+May 30, 2018 17:13:11.41 [6232:19996:0530/171310.830:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/'}
+May 30, 2018 17:13:11.42 [6232:19996:0530/171310.830:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/zbigz'}
+May 30, 2018 17:13:11.43 [6232:19996:0530/171310.830:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezux_tos_27634', domain='www.tricksworldzz.com', path='/zbigz'}
+May 30, 2018 17:13:11.45 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.46 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.48 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.50 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearch', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.51 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.53 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.54 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.55 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.57 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.58 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installType', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.60 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.61 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabCache', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.63 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.64 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.65 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.67 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.68 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.69 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerId', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.71 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.72 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.73 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:11.76 [6232:19996:0530/171311.134:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.yournewtab.com', path='/'}
+May 30, 2018 17:13:34.88 [6232:32600:0530/171334.886:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 30, 2018 17:14:32.15 Unable to read VR Path Registry from C:\Users\Jagan\AppData\Local\openvr\openvrpaths.vrpath
+May 30, 2018 17:14:32.17 [6232:32600:0530/171432.158:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+May 31, 2018 17:50:51.41 NEW SESSION
+May 31, 2018 17:50:51.41 [3608:10484:0531/175051.340:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+May 31, 2018 17:50:53.09 [3608:10728:0531/175053.098:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum_n2_us', domain='.apple.com', path='/'}
+May 31, 2018 17:50:53.18 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_siteuid', domain='.bithumb.com', path='/'}
+May 31, 2018 17:50:53.24 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_ssid', domain='.bithumb.com', path='/'}
+May 31, 2018 17:50:53.30 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_cm_mmc', domain='.bithumb.com', path='/'}
+May 31, 2018 17:50:53.32 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='appier_utmz', domain='.bithumb.com', path='/'}
+May 31, 2018 17:50:53.34 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmb', domain='.clearload.bid', path='/'}
+May 31, 2018 17:50:53.36 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmc', domain='.clearload.bid', path='/'}
+May 31, 2018 17:50:53.38 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmz', domain='.clearload.bid', path='/'}
+May 31, 2018 17:50:53.40 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dl_user_platform', domain='.cnet.com', path='/'}
+May 31, 2018 17:50:53.45 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_pptid', domain='.cnet.com', path='/'}
+May 31, 2018 17:50:53.47 [3608:10728:0531/175053.099:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum', domain='.cnet.com', path='/'}
+May 31, 2018 17:50:53.54 [3608:10728:0531/175053.100:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='demonuts.com', path='/pick-image-gallery-camera-android'}
+May 31, 2018 17:50:53.56 [3608:10728:0531/175053.100:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='eclipse_cookieconsent_status', domain='www.eclipse.org', path='/'}
+May 31, 2018 17:50:53.58 [3608:10728:0531/175053.101:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browser_width', domain='hdmoviepoint.com', path='/'}
+May 31, 2018 17:50:53.62 [3608:10728:0531/175053.101:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browsercapability', domain='hdmoviepoint.com', path='/'}
+May 31, 2018 17:50:54.19 [3608:10728:0531/175054.197:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='LD_U', domain='marketcampus.com', path='/'}
+May 31, 2018 17:50:54.22 [3608:10728:0531/175054.198:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='tz', domain='medium.com', path='/'}
+May 31, 2018 17:50:54.24 [3608:10728:0531/175054.198:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ct_timezone', domain='www.neowin.net', path='/'}
+May 31, 2018 17:50:54.65 [3608:10728:0531/175054.651:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='OptanonConsent', domain='.softonic.com', path='/'}
+May 31, 2018 17:50:54.74 [3608:10728:0531/175054.651:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.fpmSessionId', domain='.softonic.com', path='/'}
+May 31, 2018 17:50:54.75 [3608:10728:0531/175054.651:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.softonic_mobile.page_views.counter', domain='.softonic.com', path='/'}
+May 31, 2018 17:50:54.77 [3608:10728:0531/175054.651:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='viewedOuibounceModal', domain='jarfix.en.softonic.com', path='/'}
+May 31, 2018 17:50:54.78 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_id', domain='www.techjini.com', path='/'}
+May 31, 2018 17:50:54.79 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_start_time', domain='www.techjini.com', path='/'}
+May 31, 2018 17:50:54.81 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-original-referrer', domain='www.techjini.com', path='/'}
+May 31, 2018 17:50:54.82 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.84 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.85 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.86 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.87 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.88 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.90 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.91 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.92 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.93 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.95 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.96 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.97 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:54.98 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:55.00 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:55.01 [3608:10728:0531/175054.652:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:55.02 [3608:10728:0531/175054.745:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:55.04 [3608:10728:0531/175054.745:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.thewhizmarketing.com', path='/'}
+May 31, 2018 17:50:55.06 [3608:10728:0531/175054.745:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/'}
+May 31, 2018 17:50:55.07 [3608:10728:0531/175054.745:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/zbigz'}
+May 31, 2018 17:50:55.08 [3608:10728:0531/175054.745:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezux_tos_27634', domain='www.tricksworldzz.com', path='/zbigz'}
+May 31, 2018 17:50:55.09 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.11 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.12 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.13 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearch', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.15 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.16 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.18 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.19 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.21 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.22 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installType', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.23 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.25 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabCache', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.26 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.27 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.29 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.30 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.32 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.33 [3608:10728:0531/175054.746:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerId', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.35 [3608:10728:0531/175055.024:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.36 [3608:10728:0531/175055.024:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.37 [3608:10728:0531/175055.024:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.yournewtab.com', path='/'}
+May 31, 2018 17:50:55.39 [3608:10728:0531/175055.024:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.yournewtab.com', path='/'}
+May 31, 2018 18:03:21.12 Unable to read VR Path Registry from C:\Users\Jagan\AppData\Local\openvr\openvrpaths.vrpath
+May 31, 2018 18:03:21.19 [3608:9300:0531/180321.121:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 31, 2018 18:03:50.30 [3608:9300:0531/180350.307:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 31, 2018 18:04:35.06 [3608:9300:0531/180435.061:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 31, 2018 18:06:15.75 [3608:9300:0531/180615.752:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 31, 2018 18:09:58.65 [3608:9300:0531/180958.649:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 31, 2018 18:16:28.61 [3608:9300:0531/181628.615:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 31, 2018 18:26:28.61 [3608:9300:0531/182628.617:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+May 31, 2018 20:18:24.78 [3608:9300:0531/201824.786:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jun 01, 2018 16:24:00.02 NEW SESSION
+Jun 01, 2018 16:24:00.02 [15084:4800:0601/162359.941:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Jun 01, 2018 16:24:03.39 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum_n2_us', domain='.apple.com', path='/'}
+Jun 01, 2018 16:24:03.45 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_siteuid', domain='.bithumb.com', path='/'}
+Jun 01, 2018 16:24:03.48 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_ssid', domain='.bithumb.com', path='/'}
+Jun 01, 2018 16:24:03.51 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_cm_mmc', domain='.bithumb.com', path='/'}
+Jun 01, 2018 16:24:03.54 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='appier_utmz', domain='.bithumb.com', path='/'}
+Jun 01, 2018 16:24:03.57 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmb', domain='.clearload.bid', path='/'}
+Jun 01, 2018 16:24:03.60 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmc', domain='.clearload.bid', path='/'}
+Jun 01, 2018 16:24:03.67 [15084:11324:0601/162403.393:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmz', domain='.clearload.bid', path='/'}
+Jun 01, 2018 16:24:03.76 [15084:11324:0601/162403.394:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dl_user_platform', domain='.cnet.com', path='/'}
+Jun 01, 2018 16:24:03.87 [15084:11324:0601/162403.394:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_pptid', domain='.cnet.com', path='/'}
+Jun 01, 2018 16:24:03.91 [15084:11324:0601/162403.394:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum', domain='.cnet.com', path='/'}
+Jun 01, 2018 16:24:03.97 [15084:11324:0601/162403.395:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='demonuts.com', path='/pick-image-gallery-camera-android'}
+Jun 01, 2018 16:24:03.99 [15084:11324:0601/162403.395:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='eclipse_cookieconsent_status', domain='www.eclipse.org', path='/'}
+Jun 01, 2018 16:24:04.35 [15084:11324:0601/162404.349:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browser_width', domain='hdmoviepoint.com', path='/'}
+Jun 01, 2018 16:24:04.40 [15084:11324:0601/162404.349:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browsercapability', domain='hdmoviepoint.com', path='/'}
+Jun 01, 2018 16:24:05.26 [15084:11324:0601/162405.265:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='LD_U', domain='marketcampus.com', path='/'}
+Jun 01, 2018 16:24:05.33 [15084:11324:0601/162405.265:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='tz', domain='medium.com', path='/'}
+Jun 01, 2018 16:24:05.36 [15084:11324:0601/162405.266:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ct_timezone', domain='www.neowin.net', path='/'}
+Jun 01, 2018 16:24:05.40 [15084:11324:0601/162405.266:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='OptanonConsent', domain='.softonic.com', path='/'}
+Jun 01, 2018 16:24:05.42 [15084:11324:0601/162405.266:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.fpmSessionId', domain='.softonic.com', path='/'}
+Jun 01, 2018 16:24:05.46 [15084:11324:0601/162405.266:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.softonic_mobile.page_views.counter', domain='.softonic.com', path='/'}
+Jun 01, 2018 16:24:05.48 [15084:11324:0601/162405.266:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='viewedOuibounceModal', domain='jarfix.en.softonic.com', path='/'}
+Jun 01, 2018 16:24:05.51 [15084:11324:0601/162405.267:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_id', domain='www.techjini.com', path='/'}
+Jun 01, 2018 16:24:05.54 [15084:11324:0601/162405.267:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_start_time', domain='www.techjini.com', path='/'}
+Jun 01, 2018 16:24:05.56 [15084:11324:0601/162405.267:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-original-referrer', domain='www.techjini.com', path='/'}
+Jun 01, 2018 16:24:05.89 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:05.91 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:05.93 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:05.95 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:05.96 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:05.98 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.00 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.02 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.04 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.07 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.09 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.13 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.15 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.18 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.20 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.23 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.24 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.26 [15084:11324:0601/162405.897:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 16:24:06.28 [15084:11324:0601/162405.898:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/'}
+Jun 01, 2018 16:24:06.29 [15084:11324:0601/162405.898:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/zbigz'}
+Jun 01, 2018 16:24:06.31 [15084:11324:0601/162405.898:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezux_tos_27634', domain='www.tricksworldzz.com', path='/zbigz'}
+Jun 01, 2018 16:24:06.33 [15084:11324:0601/162405.899:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.35 [15084:11324:0601/162405.899:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.37 [15084:11324:0601/162405.899:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.39 [15084:11324:0601/162405.899:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearch', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.41 [15084:11324:0601/162405.899:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.43 [15084:11324:0601/162405.899:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.45 [15084:11324:0601/162405.899:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.47 [15084:11324:0601/162405.982:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.48 [15084:11324:0601/162405.982:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.50 [15084:11324:0601/162405.982:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installType', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.52 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.55 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabCache', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.56 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.61 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.63 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.65 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.67 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.68 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerId', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.71 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.73 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.75 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:24:06.76 [15084:11324:0601/162405.983:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 16:25:15.41 Unable to read VR Path Registry from C:\Users\Jagan\AppData\Local\openvr\openvrpaths.vrpath
+Jun 01, 2018 17:19:43.06 [6468:7104:0601/171943.059:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Jun 01, 2018 17:19:46.30 [6468:14704:0601/171946.308:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum_n2_us', domain='.apple.com', path='/'}
+Jun 01, 2018 17:19:46.42 [6468:14704:0601/171946.309:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_siteuid', domain='.bithumb.com', path='/'}
+Jun 01, 2018 17:19:46.45 [6468:14704:0601/171946.309:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_atrk_ssid', domain='.bithumb.com', path='/'}
+Jun 01, 2018 17:19:46.49 [6468:14704:0601/171946.309:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='_cm_mmc', domain='.bithumb.com', path='/'}
+Jun 01, 2018 17:19:46.51 [6468:14704:0601/171946.309:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='appier_utmz', domain='.bithumb.com', path='/'}
+Jun 01, 2018 17:19:46.53 [6468:14704:0601/171946.309:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmb', domain='.clearload.bid', path='/'}
+Jun 01, 2018 17:19:46.55 [6468:14704:0601/171946.309:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmc', domain='.clearload.bid', path='/'}
+Jun 01, 2018 17:19:46.57 [6468:14704:0601/171946.309:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmz', domain='.clearload.bid', path='/'}
+Jun 01, 2018 17:19:46.59 [6468:14704:0601/171946.310:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dl_user_platform', domain='.cnet.com', path='/'}
+Jun 01, 2018 17:19:46.60 [6468:14704:0601/171946.310:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_pptid', domain='.cnet.com', path='/'}
+Jun 01, 2018 17:19:46.62 [6468:14704:0601/171946.310:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='s_vnum', domain='.cnet.com', path='/'}
+Jun 01, 2018 17:19:46.65 [6468:14704:0601/171946.310:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='demonuts.com', path='/pick-image-gallery-camera-android'}
+Jun 01, 2018 17:19:46.66 [6468:14704:0601/171946.310:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='eclipse_cookieconsent_status', domain='www.eclipse.org', path='/'}
+Jun 01, 2018 17:19:46.68 [6468:14704:0601/171946.311:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browser_width', domain='hdmoviepoint.com', path='/'}
+Jun 01, 2018 17:19:46.70 [6468:14704:0601/171946.311:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='browsercapability', domain='hdmoviepoint.com', path='/'}
+Jun 01, 2018 17:19:46.71 [6468:14704:0601/171946.312:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='LD_U', domain='marketcampus.com', path='/'}
+Jun 01, 2018 17:19:46.73 [6468:14704:0601/171946.312:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='tz', domain='medium.com', path='/'}
+Jun 01, 2018 17:19:46.74 [6468:14704:0601/171946.313:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ct_timezone', domain='www.neowin.net', path='/'}
+Jun 01, 2018 17:19:46.76 [6468:14704:0601/171946.313:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='OptanonConsent', domain='.softonic.com', path='/'}
+Jun 01, 2018 17:19:46.77 [6468:14704:0601/171946.314:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.fpmSessionId', domain='.softonic.com', path='/'}
+Jun 01, 2018 17:19:46.79 [6468:14704:0601/171946.314:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='session.softonic_mobile.page_views.counter', domain='.softonic.com', path='/'}
+Jun 01, 2018 17:19:46.80 [6468:14704:0601/171946.314:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='viewedOuibounceModal', domain='jarfix.en.softonic.com', path='/'}
+Jun 01, 2018 17:19:46.82 [6468:14704:0601/171946.314:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_id', domain='www.techjini.com', path='/'}
+Jun 01, 2018 17:19:46.84 [6468:14704:0601/171946.314:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-crm-session_start_time', domain='www.techjini.com', path='/'}
+Jun 01, 2018 17:19:46.85 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-original-referrer', domain='www.techjini.com', path='/'}
+Jun 01, 2018 17:19:46.87 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:46.96 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.01 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.06 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.10 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.16 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.21 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.26 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.39 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.56 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.61 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.65 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.68 [6468:14704:0601/171946.425:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.71 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.74 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.76 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.79 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.87 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.thewhizmarketing.com', path='/'}
+Jun 01, 2018 17:19:47.90 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/'}
+Jun 01, 2018 17:19:47.92 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezohw', domain='www.tricksworldzz.com', path='/zbigz'}
+Jun 01, 2018 17:19:47.94 [6468:14704:0601/171946.426:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ezux_tos_27634', domain='www.tricksworldzz.com', path='/zbigz'}
+Jun 01, 2018 17:19:47.96 [6468:14704:0601/171946.876:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeEnableTopSites', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.00 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeSearchExtensionURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.02 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='chromeShowToolbar', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.04 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearch', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.07 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='defaultSearchOption', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.09 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.10 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.12 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.14 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installDate', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.16 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installType', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.19 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.21 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabCache', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.22 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.24 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.25 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.27 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.29 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.30 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerId', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.32 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.35 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.37 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:19:48.39 [6468:14704:0601/171946.877:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.yournewtab.com', path='/'}
+Jun 01, 2018 17:28:35.02 Unable to read VR Path Registry from C:\Users\Jagan\AppData\Local\openvr\openvrpaths.vrpath
+Jun 01, 2018 17:28:35.13 [6468:9792:0601/172835.019:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 17:29:02.55 [6468:9792:0601/172902.558:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 17:29:55.26 [6468:9792:0601/172955.264:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 17:31:27.18 [6468:9792:0601/173127.178:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 17:34:54.57 [6468:9792:0601/173454.569:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 17:40:31.84 [6468:9792:0601/174031.846:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 17:50:31.85 [6468:9792:0601/175031.849:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 18:00:31.85 [6468:9792:0601/180031.850:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 18:10:31.85 [6468:9792:0601/181031.851:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 18:20:31.85 [6468:9792:0601/182031.853:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 18:30:31.85 [6468:9792:0601/183031.854:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 18:40:31.85 [6468:9792:0601/184031.857:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 18:50:31.86 [6468:9792:0601/185031.861:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 01, 2018 21:55:10.17 [6468:9792:0601/215510.173:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jun 05, 2018 16:20:17.96 NEW SESSION
+Jun 05, 2018 16:20:17.96 [19912:14756:0605/162017.900:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+Jun 05, 2018 16:20:35.83 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='__utmz', domain='.clearload.bid', path='/'}
+Jun 05, 2018 16:20:35.90 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='q_survey_uid', domain='www.quora.com', path='/'}
+Jun 05, 2018 16:20:35.93 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='10oeltjnn8mvkgt5jg8e6cpbsg-agile-original-referrer', domain='www.techjini.com', path='/'}
+Jun 05, 2018 16:20:35.96 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.thewhizmarketing.com', path='/'}
+Jun 05, 2018 16:20:35.97 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.thewhizmarketing.com', path='/'}
+Jun 05, 2018 16:20:36.01 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='npsSurveyUrl', domain='.thewhizmarketing.com', path='/'}
+Jun 05, 2018 16:20:36.02 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.thewhizmarketing.com', path='/'}
+Jun 05, 2018 16:20:36.05 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='dlput', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.07 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePage', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.08 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='homePageOption', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.10 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='installType', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.11 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabBubbleURL', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.13 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabCache', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.15 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabInstructURL', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.16 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabSuccessURL', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.18 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='newTabURL', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.21 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='originKey', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.22 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerId', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.36 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='partnerSubId', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.38 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='successUrl', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.40 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='toolbarId', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:20:36.41 [19912:10056:0605/162035.838:ERROR:cookie_monster.cc(891)] Found cookies with duplicate creation times in backing store: {name='ttabFirstInstall', domain='.yournewtab.com', path='/'}
+Jun 05, 2018 16:52:46.82 Unable to read VR Path Registry from C:\Users\Jagan\AppData\Local\openvr\openvrpaths.vrpath
+Jun 05, 2018 16:52:50.86 [19912:19676:0605/165246.827:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 16:53:10.00 [19912:19676:0605/165310.003:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 16:53:51.19 [19912:19676:0605/165351.192:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 16:55:33.60 [19912:19676:0605/165533.600:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 16:58:49.16 [19912:19676:0605/165849.162:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:05:18.74 [19912:19676:0605/170518.740:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:15:18.74 [19912:19676:0605/171518.746:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:25:18.76 [19912:19676:0605/172518.762:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:35:18.77 [19912:19676:0605/173518.774:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:45:18.78 [19912:19676:0605/174518.789:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 17:55:18.80 [19912:19676:0605/175518.804:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 18:05:18.80 [19912:19676:0605/180518.807:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 18:15:18.80 [19912:19676:0605/181518.809:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 05, 2018 18:25:18.81 [19912:19676:0605/182518.812:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jun 07, 2018 17:44:14.90 NEW SESSION
+Jun 07, 2018 17:44:14.90 [20904:24260:0607/174414.892:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jun 07, 2018 17:45:34.21 Unable to read VR Path Registry from C:\Users\Jagan\AppData\Local\openvr\openvrpaths.vrpath
+Jun 07, 2018 17:45:34.26 [20904:24260:0607/174534.217:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 17:45:55.55 [20904:24260:0607/174555.547:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 17:46:55.38 [20904:24260:0607/174655.384:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 17:48:25.18 [20904:24260:0607/174825.185:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 17:51:18.72 [20904:24260:0607/175118.722:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 17:59:11.30 [20904:24260:0607/175911.300:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 18:09:11.31 [20904:24260:0607/180911.314:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 18:19:11.31 [20904:24260:0607/181911.314:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 18:29:11.32 [20904:24260:0607/182911.324:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 07, 2018 18:39:11.33 [20904:24260:0607/183911.335:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.

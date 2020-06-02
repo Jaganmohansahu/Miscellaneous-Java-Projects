@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+
+public <voices>  = ( change to voice one  | change to voice two | change to voice three | write | shutdown | open notepad | hello java | test | close notepad | maximize notepad | restore down notepad);
+

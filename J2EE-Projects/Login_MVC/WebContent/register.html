@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link href="bootstrap.min.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	li
+	{
+		float: left;
+	}
+	ul
+	{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color:#333; 
+	}
+	li a
+	{
+		display: inline-block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none; 
+	}
+	li a:HOVER {
+	background-color: aqua;
+}
+</style>
+<title>Insert title here</title>
+
+</head>
+<body>
+	<ul>
+		<li> <a href="index.html">HOME</a></li>
+		<li> <a href="login.html">LOGIN</a></li>
+		<li> <a href="register.html">REGISTER</a></li>
+		
+		
+	</ul>	
+	<form action="login_controller.Register" method="post">
+		<pre>
+			NAME:		<input type="text" name="name" placeholder="Enter Name">
+			EID:		<input type="text" name="eid" placeholder="Enter EID">
+			PASSWORD:	<input type="password" name="password" placeholder="Enter Password">
+			SALARY:		<input type="text" name="salary" placeholder="Enter Salary">
+			JOB:		<input type="text" name="job" placeholder="Enter Job">
+			EMAIL:		<input type="email" name="email" placeholder="Enter Email">
+			PHONE:		<input type="tel" name="phone" placeholder="Enter Phone ">
+						<input type="submit" value="Register" class="btn btn-large btn-primary" >
+			
+		</pre>
+	</form>	
+</body>
+</html>
+
+	
